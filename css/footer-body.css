@@ -1,0 +1,17 @@
+.footer-bottom{
+	float: bottom;
+	width: 100%;
+	height: auto;
+	position: relative;
+	padding: 5px;
+	background: blue;
+	top: 970px;
+	}
+.footer-bottom{
+	font-family: arial;
+	font-size: 14px;
+	text-align: center;
+	color: #fff;
+	font-weight: 600;
+	letter-spacing: 2px;
+	}

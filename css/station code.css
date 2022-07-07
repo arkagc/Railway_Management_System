@@ -1,0 +1,44 @@
+.navigation4{
+	
+	top: 105px;
+	bottom: 30px;
+	position: absolute;
+	width: 930px;
+	border: 2px solid blue;
+	padding: 100px 0px;
+	margin-left: 220px;
+	border-radius: 10px;
+	
+}
+.navigation4 h1 {
+	margin-top: -90px;
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	color: blue;
+}
+.view {
+	text-align: center;
+	margin-left: 220px;
+	font-size: 15px;
+	font-weight: bold;
+	margin-top: 40px;
+}
+.footer-bottom{
+	float: bottom;
+	width: 100%;
+	height: auto;
+	position: relative;
+	padding: 5px;
+	background: blue;
+	top: 250px;
+	}
+.footer-bottom{
+	font-family: arial;
+	font-size: 14px;
+	text-align: center;
+	color: #fff;
+	font-weight: 600;
+	letter-spacing: 2px;
+	}
